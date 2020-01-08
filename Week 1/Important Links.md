@@ -2,8 +2,8 @@
 
 [CCC Grader](https://cccgrader.com/)
 
-CCC Google Classroom: wu44s6
-
 [DMOJ Online Judge](https://dmoj.ca/)
 
-[Repl.it]()
+[Repl.it](https://repl.it/)
+
+CCC Google Classroom: wu44s6
