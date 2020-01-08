@@ -88,6 +88,6 @@ Please try these problems at home(or in class if you're done all the above quest
 
 [Paint](https://dmoj.ca/problem/pacnw16h)
 
-Bonus: [From Prefix To Postfix](https://dmoj.ca/problem/ccc08j4)
+[From Prefix To Postfix](https://dmoj.ca/problem/ccc08j4)
 
 Editorials and Sample Solutions will be posted next week. 
