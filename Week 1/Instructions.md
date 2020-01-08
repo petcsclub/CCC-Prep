@@ -4,7 +4,7 @@
 
 Please join the CCC Google Classroom for updates: 
 
-** wu44s6 ** 
+**wu44s6** 
 
 ## CCC Important Info
 
