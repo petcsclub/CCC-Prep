@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+
+int lo, hi, secret = 60;
+
+void bs(int lo, int hi){
+    while (true){
+        int mid = (lo + hi) / 2;
+        cout << mid << "\n";
+        if (mid == secret){
+            return;
+        }
+        else if (mid > secret){
+            hi = mid;
+        }
+        else {
+            lo = mid;
+        }
+    }
+}
+
+int main(){
+    lo = 1; hi = 100;
+    bs(lo, hi);
+    return 0;
+}
