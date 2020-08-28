@@ -59,14 +59,14 @@ If you're still not entirely comfortable with any programming languages, we sugg
 
 If you've already finished solving the problems from Part 2, we suggest you try some of the following problems:  
 
-+ [CCC '07 J1 - Who is in the Middle?](https://dmoj.ca/problem/ccc07j1)
-+ [DMOPC '14 Contest 1 P2 - Tiles](https://dmoj.ca/problem/dmopc14c1p2)
 + [CCC '05 J1 - The Cell Sell](https://dmoj.ca/problem/ccc05j1)
++ [CCC '07 J1 - Who is in the Middle?](https://dmoj.ca/problem/ccc07j1)
 + [CCC '07 J2 - I Speak TXTMSG](https://dmoj.ca/problem/ccc07j2)
 + [CCC '14 J1 - Triangle Times](https://dmoj.ca/problem/ccc14j1)
-+ [TLE '16 Contest 2 P1 - In Debt](https://dmoj.ca/problem/tle16c2p1)
 + [Past CCC J1 Problems](https://dmoj.ca/problems/?search=J1&category=4)
 + [Past CCC J2 Problems](https://dmoj.ca/problems/?search=J2&category=4)
 + [Past CCC J3 Problems](https://dmoj.ca/problems/?search=J3&category=4)  
++ [DMOPC '14 Contest 1 P2 - Tiles](https://dmoj.ca/problem/dmopc14c1p2)
++ [TLE '16 Contest 2 P1 - In Debt](https://dmoj.ca/problem/tle16c2p1)
 
 You can also use the filters on DMOJ to search for more problems!
